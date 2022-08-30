@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=Operation
-comment0.text=\r\n\ This\ class\ contains\ the\ operation\ type\ and\ the\ indices\ of\ the\ elements\r\n\ that\ were\ affected\ by\ that\ operation\r\n
-comment1.params=operation\ index1\ index2
-comment1.target=Operation(OperationType,\ int,\ int)
-numComments=2
