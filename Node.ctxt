@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Node
+comment1.params=value\ x_bound\ y_bound
+comment1.target=Node(int,\ int,\ int)
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment3.params=
+comment3.target=void\ setSortedColor()
+comment4.params=
+comment4.target=void\ setCheckedColor()
+comment5.params=
+comment5.target=void\ setDefaultColor()
+comment6.params=
+comment6.target=void\ setSelectedColor()
+comment7.params=text_color\ background_color\ border_color
+comment7.target=void\ updateNode(java.awt.Color,\ java.awt.Color,\ java.awt.Color)
+numComments=8
